@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ring/static/css/main.1d38bf31.css",
+    "main.js": "/ring/static/js/main.a404ef56.js",
+    "index.html": "/ring/index.html",
+    "main.1d38bf31.css.map": "/ring/static/css/main.1d38bf31.css.map",
+    "main.a404ef56.js.map": "/ring/static/js/main.a404ef56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d38bf31.css",
+    "static/js/main.a404ef56.js"
+  ]
+}
