@@ -1,0 +1,1 @@
+ scp -r build/* root@31.97.76.62:/var/www/ring
